@@ -1,13 +1,13 @@
 # 🐍 Multiplayer Snake Game  
 A real-time multiplayer Snake Game where players compete to grow the longest and outmaneuver opponents. Eat food, avoid crashes, and use strategy to win!
 
-###🚀Planned Features
+### 🚀Planned Features
 Multiplayer Gameplay – Compete with others in real-time
 Smooth Controls – Responsive movement and mechanics
 Classic & Modern Modes – Retro-inspired with new twists
 Planned Updates – Power-ups, custom skins, and more
 
-###🔧 Installation
+### 🔧 Installation
 Clone the Repository:
 bash
 
@@ -21,7 +21,7 @@ Run the Game:
 bash python main.py
 
 
-###🎮 How to Play
+### 🎮 How to Play
 Use arrow keys or WASD to control your snake
 Eat food to grow longer
 Avoid crashing into walls and other players
