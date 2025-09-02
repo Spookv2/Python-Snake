@@ -10,7 +10,7 @@ Planned Updates – Power-ups, custom skins, and more
 ## 🔧 Installation
 
 #### Clone the Repository:
-bash git clone https://github.com/amohamed2819/Python-Snake
+bash git clone https://github.com/Spookv2/Python-Snake
 cd multiplayer-snake
 
 #### Install Dependencies:
